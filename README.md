@@ -26,6 +26,7 @@ for number in 4..<8{
 
 print(myNum)
 ```
+The answer is 23. The reason that this is 23 is because when you plug in the answers initially you are adding 8 to 4 since 4 is not equal to 7. After that you take the value from that and add it to not only to 5 but to 6 as well since they are also not equal to 7. Thus giving the answer to be 23.
 
 ***
 ## Question 2
@@ -59,7 +60,7 @@ for l in 1...100 where _ < 101 {
     print(l)
 }
 ```
-
+B & C; because when I was able to run all four answers, only B & C was able to give me back the result of 100 times since it was needed to be in the answer. 
 ***
 ## Question 3
 
@@ -72,7 +73,7 @@ for _ in 1...10{
     }
 }
 ```
-
+100 times 
 ***
 ## Question 4
 
@@ -117,5 +118,5 @@ while t == t{
     t += 1
 }
 ```
-
+A & D; A  is right because zero is not divisible by 2 so because of that it is an infinite loop. D is right because 0 is equal to 0 thus making it a infinite loop. 
 ***
